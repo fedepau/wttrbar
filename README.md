@@ -38,7 +38,3 @@ Assuming `wttrbar` is in your path, it can be used like:
     "return-type": "json"
 },
 ```
-
-## Old version
-
-This code is based on my [old Python gist](https://gist.github.com/bjesus/f8db49e1434433f78e5200dc403d58a3) that was used for the same purpose.
