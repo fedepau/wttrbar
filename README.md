@@ -3,7 +3,7 @@ wttrbar
 </h1>
 
 <p align="center">
-My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts.
+My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts emojis.
 </p>
 <p align="center">
 <img src="https://github.com/fedepau/wttrbar/assets/86348751/8943a8e0-b3a2-47f7-a334-a57b67477969.png" height="400">
@@ -12,8 +12,7 @@ My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, s
 
 ## Installation
 
-Compile yourself using `cargo build --release` and add the `wttrbar` binary to your `$PATH`.
-
+Compile yourself using `cargo build --release` and add the resulting `wttrbar` binary to your `$PATH`.
 
 ## Usage
 
