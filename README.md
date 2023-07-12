@@ -6,7 +6,7 @@ wttrbar
 My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts.
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/55081/232401699-b8345fe0-ffce-4353-b51b-615389153448.png" height="400">
+<img src="https://github.com/fedepau/wttrbar/assets/86348751/8943a8e0-b3a2-47f7-a334-a57b67477969.png" height="400">
 </p>
 <hr />
 
