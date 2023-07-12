@@ -3,7 +3,7 @@ wttrbar
 </h1>
 
 <p align="center">
-a simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>.
+My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts.
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55081/232401699-b8345fe0-ffce-4353-b51b-615389153448.png" height="400">
@@ -12,9 +12,7 @@ a simple but detailed weather indicator for <a href="https://github.com/Alexays/
 
 ## Installation
 
-Compile yourself using `cargo build --release`, or download the precompiled binary from the [releases](https://github.com/bjesus/wttrbar/releases) page.
-
-For Arch Linux, use the [AUR](https://aur.archlinux.org/packages/wttrbar) package.
+Compile yourself using `cargo build --release` and add the `wttrbar` binary to your `$PATH`.
 
 
 ## Usage
