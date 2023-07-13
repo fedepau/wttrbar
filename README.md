@@ -1,9 +1,9 @@
 <h1 align="center">
-wttrbar
+wttrbar-nerd
 </h1>
 
 <p align="center">
-My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a> by bjesus, simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts emojis.
+My fork of <a href="https://github.com/bjesus/wttrbar/">wttrbar</a>, a simple but detailed weather indicator for <a href="https://github.com/Alexays/Waybar/">Waybar</a> using <a href="https://wttr.in/">wttr.in</a>. This uses Nerd Fonts icons rather than Noto Fonts emojis.
 </p>
 <p align="center">
 <img src="https://github.com/fedepau/wttrbar-nerd/assets/86348751/e06d68b4-4ace-48e4-b33d-e2e0db2b905d.png" height="400">
